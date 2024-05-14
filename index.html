@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"
+      integrity="sha512-M7nHCiNUOwFt6Us3r8alutZLm9qMt4s9951uo8jqO4UwJ1hziseL6O3ndFyigx6+LREfZqnhHxYjKRJ8ZQ69DQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script> -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .hoverContainer {
+        pointer-events: all;
+        fill-opacity: 0;
+        stroke-opacity: 0;
+        z-index: 1;
+      }
+
+      .tooltip {
+        position: absolute;
+        padding: 5px;
+        background-color: #ef4444;
+        color: white;
+        border: 0px solid white;
+        border-radius: 0px;
+        display: none;
+        opacity: 0.75;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="canvas"></div>
+    <!-- Include the D3.js library -->
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+
+    <script src="graph.js"></script>
+  </body>
+</html>

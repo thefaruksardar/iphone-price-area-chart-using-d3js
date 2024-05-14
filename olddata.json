@@ -1,0 +1,19 @@
+[
+  { "model": "iPhone 3G (2008)", "price": "$199" },
+  { "model": "iPhone 3GS (2009)", "price": "$199" },
+  { "model": "iPhone 4 (2010)", "price": "$199" },
+  { "model": "iPhone 4S (2011)", "price": "$199" },
+  { "model": "iPhone 5 (2012)", "price": "$199" },
+  { "model": "iPhone 5S/5C (2013)", "price": "$199" },
+  { "model": "iPhone 6/6 Plus (2014)", "price": "$199" },
+  { "model": "iPhone 6S/6S Plus (2015)", "price": "$199" },
+  { "model": "iPhone 7/7 Plus (2016)", "price": "$649" },
+  { "model": "iPhone 8/8 Plus (2017)", "price": "$699" },
+  { "model": "iPhone X (2017)", "price": "$999" },
+  { "model": "iPhone XR (2018)", "price": "$749" },
+  { "model": "iPhone XS/S Max (2018)", "price": "$999" },
+  { "model": "iPhone 11/Pro/Pro Max (2019)", "price": "$699" },
+  { "model": "iPhone 13/Mini/Pro/Pro Max (2021)", "price": "$799" },
+  { "model": "iPhone 14/Plus/Pro/Pro Max (2022)", "price": "$799" },
+  { "model": "iPhone 15/Plus/Pro/Pro Max", "price": "$799" }
+]
